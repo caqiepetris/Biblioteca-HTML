@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Page Title</title>
+	</head>
+	<body>
+		<!--como adicionar imagens-->
+        <p>bola de basquete </p>
+        <img src="https://th.bing.com/th/id/R.36fcf95a2cfb9fc31e597aeadad5540a?rik=l3LkhY6rPRZ%2f1A&pid=ImgRaw&r=0" alt="bola">
+        </body>
+</html>
